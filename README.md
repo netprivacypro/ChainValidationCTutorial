@@ -1,7 +1,7 @@
 Chain Validation Tutorial (C)
 ===
 
-This repository holds the source code for the Net Privacy Pro Chain Validation tutorial in C. Here, you can find a server and a client application, both using OpenSSL to establish a connection, the client verifies the server's certificate. They then securely transmit data back and forth before closing the connection cleanly again.
+This repository holds the source code for the Net Privacy Pro Chain Validation tutorial in C. Here, you can find a server and a client application, both using OpenSSL to establish a connection, the client verifies the server's certificate. They then securely transmit data back and forth before closing the connection cleanly again. You can find the respective tutorial [here](https://netprivacypro.com/how-to-implement-chain-validation-in-c-on-linux/).
 
 Dependencies
 ---
